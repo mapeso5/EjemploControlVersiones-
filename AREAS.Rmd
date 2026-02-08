@@ -1,0 +1,27 @@
+---
+title: "AREAS"
+author: "Mario Peralta Solera"
+date: "2026-02-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## AREA DEL CIRCULO
+
+```{r cars}
+r<- 0.5
+Area <- pi*r^2
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
