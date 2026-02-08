@@ -27,5 +27,12 @@ Areacuadrado <- lado^2
 
 ```{r}
 Areatriangulo <- Base * Altura /2
+
+```
+
+## AREA DEL RECTANGULO
+
+```{r}
+Arearectangulo <- Base * Altura
 ```
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
